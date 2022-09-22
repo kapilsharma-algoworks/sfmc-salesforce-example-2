@@ -8,8 +8,8 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template 2",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "Template Algo",
+          "description": "A custom sctivity by algoworks",
           "step1Label": "Configure Activity"
         }
     },
